@@ -64,7 +64,6 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `username`, `password`, `email`, `address`, `birthday`, `phone`) VALUES
-(1, 'Youssef', 'Elhanafi', 'mrtshakur', '1a1dc91c907325c69271ddf0c944bc72', 'youssef.elhanafi@gmail.com', 'Asfi', '1996-06-07', ''),
 (2, '', '', '', 'd41d8cd98f00b204e9800998ecf8427e', '', '', '0000-00-00', ''),
 (3, NULL, NULL, '', '', '', NULL, '0000-00-00', ''),
 (7, 'ahmed', 'salhi', 'mido', '1a1dc91c907325c69271ddf0c944bc72', 'ahmed@gmail.com', 'asfi', '1980-06-12', '0657432156'),
