@@ -67,7 +67,6 @@ INSERT INTO `users` (`id`, `firstname`, `lastname`, `username`, `password`, `ema
 (1, 'Youssef', 'Elhanafi', 'mrtshakur', '1a1dc91c907325c69271ddf0c944bc72', 'youssef.elhanafi@gmail.com', 'Asfi', '1996-06-07', ''),
 (2, '', '', '', 'd41d8cd98f00b204e9800998ecf8427e', '', '', '0000-00-00', ''),
 (3, NULL, NULL, '', '', '', NULL, '0000-00-00', ''),
-(6, 'meriyem', 'boujellal', 'mery', '1a1dc91c907325c69271ddf0c944bc72', 'meryem@email.com', 'asfi', '1990-07-01', '0640394423'),
 (7, 'ahmed', 'salhi', 'mido', '1a1dc91c907325c69271ddf0c944bc72', 'ahmed@gmail.com', 'asfi', '1980-06-12', '0657432156'),
 (8, 'test', 'test', 'test', '098f6bcd4621d373cade4e832627b4f6', 'test@ted.com', 'test', '1996-01-01', '0670876543');
 
