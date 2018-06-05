@@ -87,11 +87,8 @@ CREATE TABLE `users0` (
 --
 
 INSERT INTO `users0` (`id`, `username`, `password`, `email`) VALUES
-(4, 'mrtshakur', '1a1dc91c907325c69271ddf0c944bc72', 'marechal1marocain'),
-(5, 'youssef', '1a1dc91c907325c69271ddf0c944bc72', 'youssef.elhanafi@gmail.com'),
 (6, 'test', '098f6bcd4621d373cade4e832627b4f6', 'test'),
 (7, 'test0', 'f6f4061a1bddc1c04d8109b39f581270', 'test0'),
-(8, 'mrtshakur02', '1a1dc91c907325c69271ddf0c944bc72', 'youssef.elhanafi');
 
 -- --------------------------------------------------------
 
